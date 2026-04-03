@@ -1,4 +1,4 @@
-<img src="https://www.clipartmax.com/png/middle/1-11461_key-clipart-red-red-key-clip-art.png" width="40"/># Red-KeyLogger-python
+# Red-KeyLogger-python
 Study of how KeyLogger is built and works
 
 # 🖥️ KeyLogger Working Study
